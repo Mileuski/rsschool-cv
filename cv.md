@@ -16,8 +16,6 @@ All my adult life I was engaged in assembly and repair of equipment. At some poi
 
 `console.log('Hello, World!');`
 
-
-
 ## Education 
 - __Institute of Entrepreneurship__
 - __Institute of Parliamentarism and Entrepreneurship__
