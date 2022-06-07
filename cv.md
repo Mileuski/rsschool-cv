@@ -24,4 +24,3 @@ All my adult life I was engaged in assembly and repair of equipment. At some poi
 - __Russian__ - native speaker
 - __Belorussian__ - native speaker
 - __English__ - B1
-
